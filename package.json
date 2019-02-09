@@ -1,0 +1,11 @@
+{
+  "name": "ncc-bug-npm",
+  "version": "1.0.0",
+  "description": "A bug when npm is a dependency",
+  "main": "index.js",
+  "author": "styfle",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^6.7.0"
+  }
+}
